@@ -5,7 +5,7 @@ import p_2 from '@plugins/arabic/dilartube';
 import p_3 from '@plugins/arabic/FreeKolNovel[lightnovelwp]';
 import p_4 from '@plugins/arabic/HizoManga[madara]';
 import p_5 from '@plugins/arabic/KolNovel[lightnovelwp]';
-import p_6 from '@plugins/arabic/Markazriwayat[madara]';
+import p_6 from '@plugins/arabic/markazriwayat';
 import p_7 from '@plugins/arabic/Novel4Up[madara]';
 import p_8 from '@plugins/arabic/NovelsParadise[lightnovelwp]';
 import p_9 from '@plugins/arabic/Olaoecyou[madara]';
